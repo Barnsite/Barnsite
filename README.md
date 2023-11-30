@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barnsite
 - 👀 I’m interested in how AI can help with everyday tasks
 - 🌱 I’m currently learning everything I can about AI!
-- 💞️ I’m looking to collaborate on anything at a beginner level`
+- 💞️ I’m looking to collaborate on anything at a beginner level
 - 📫 How to reach me: robelms@sky.com or +447507685651
 
 <!---
